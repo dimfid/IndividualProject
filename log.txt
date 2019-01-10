@@ -1,0 +1,16 @@
+TIME: 2019/01/02 13:24:41 || ACTION: create_message || MESSAGE: sender is: 1 || receiver is: 2 || message:hello there!
+
+TIME: 2019/01/02 13:30:30 || ACTION: update_message || MESSAGE: message:diorthosi sto msg
+
+TIME: 2019/01/02 13:33:11 || ACTION: update_message || MESSAGE: message_Id :18, message:xana diorthwsi sto msg
+
+TIME: 2019/01/02 13:36:11 || ACTION: delete_message || MESSAGE: deleted mesagge is: 28
+
+TIME: 2019/01/02 19:17:05 || ACTION: create_message || MESSAGE: sender is: 2 || receiver is: 1 || message:hello to u too!
+
+TIME: 2019/01/02 19:17:05 || ACTION: update_message || MESSAGE: message_Id :30, message:Hello to you too!!!
+
+TIME: 2019/01/04 14:34:08 || ACTION: create_message || MESSAGE: sender is: 1 || receiver is: 7 || message:geia sou vas
+
+TIME: 2019/01/04 14:39:22 || ACTION: delete_message || MESSAGE: deleted mesagge is: 31
+
